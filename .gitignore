@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/geek-pc-react/node_modules
+/geek-pc-react/.pnp
+/geek-pc-react.pnp.js
+
+# testing
+/coverage
+
+# production
+/geek-pc-react/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+/geek-pc-react/npm-debug.log*
+/geek-pc-react/yarn-debug.log*
+geek-pc-react/yarn-error.log*
