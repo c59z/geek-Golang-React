@@ -4,6 +4,7 @@
 /geek-pc-react/node_modules
 /geek-pc-react/.pnp
 /geek-pc-react.pnp.js
+/geek-pc-gin/config.json
 
 # testing
 /coverage
