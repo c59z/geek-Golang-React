@@ -6,9 +6,9 @@ A simple Geek-themed blog platform built with React for the frontend and Gin for
 
 ## preview
 
-![](.\img\Snipaste_2024-09-29_22-04-12.png)
+![](./img/Snipaste_2024-09-29_22-04-12.png)
 
-![Snipaste_2024-09-29_22-04-42](.\img\Snipaste_2024-09-29_22-04-42.png)
+![Snipaste_2024-09-29_22-04-42](./img/Snipaste_2024-09-29_22-04-42.png)
 
 ![Snipaste_2024-09-29_22-05-01](./img/Snipaste_2024-09-29_22-05-01.png)
 
